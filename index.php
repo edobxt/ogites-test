@@ -1,6 +1,5 @@
 <?php  require_once 'header.php'; ?>
 
-<body>
     <div class="main-container">
         <div class="describ">
             <h1>Trouvez votre lieu favori parmi une selection des meilleurs gîtes de Guadeloupe</h1>
@@ -22,6 +21,5 @@
             <?php include 'assets/scrolldown.php'; ?>
         </div>
     </div>
-</body>
 
 <?php require_once 'footer.php'; ?>
